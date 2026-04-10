@@ -1,2 +1,2 @@
-# ku-minta-maaf
-buat kesya 
+# Aku Minta Maaf
+This is the Aku Minta Maaf application.
